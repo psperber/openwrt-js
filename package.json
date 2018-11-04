@@ -1,0 +1,27 @@
+{
+  "name": "openwrt-js",
+  "version": "0.0.1",
+  "description": "Openwrt JS Client",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "author": "Philipp Sperber",
+  "license": "MIT",
+  "repository": "psperber/openwrt-js",
+  "dependencies": {
+    "isomorphic-fetch": "*"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "fetch-mock": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "ignores": [
+      "./mock"
+    ],
+    "space": true,
+    "semicolon": false
+  }
+}
