@@ -1,5 +1,7 @@
 # Openwrt JS Client
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/psperber/openwrt-js.svg)](https://greenkeeper.io/)
+
 ## Installation
 ### npm
 ```bash
