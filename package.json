@@ -1,5 +1,5 @@
 {
-  "name": "openwrt-js",
+  "name": "openwrt",
   "version": "0.0.1",
   "description": "Openwrt JS Client",
   "main": "lib/index.js",
@@ -10,11 +10,11 @@
   "license": "MIT",
   "repository": "psperber/openwrt-js",
   "dependencies": {
-    "isomorphic-fetch": "*"
+    "cross-fetch": "^2.2.3"
   },
   "devDependencies": {
     "ava": "*",
-    "fetch-mock": "*",
+    "fetch-mock": "^7.2.5",
     "xo": "*"
   },
   "xo": {
