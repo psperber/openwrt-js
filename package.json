@@ -1,5 +1,5 @@
 {
-  "name": "openwrt",
+  "name": "@psperber/openwrt",
   "version": "0.0.1",
   "description": "Openwrt JS Client",
   "main": "lib/index.js",
