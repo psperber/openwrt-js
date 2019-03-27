@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": "psperber/openwrt-js",
   "dependencies": {
-    "cross-fetch": "^3.0.0"
+    "cross-fetch": "^3.0.2"
   },
   "devDependencies": {
     "ava": "*",
